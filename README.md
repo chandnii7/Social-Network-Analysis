@@ -9,12 +9,14 @@ Program performs social network analysis on more than 200 Twitter users. Project
    * Clustering Coefficient
    * Betweenness Centrality
    * Closeness Centrality
+4. Network Analysis
 
 Refer the report for further implementation details, data collection, data visualization, network measures, and network analysis:
 <a href="https://github.com/chandnii7/SocialNetworkAnalysis/blob/main/OSNA_Report_1.pdf">View Report</a>
 <br/><br/>
 
 Twitter Network:
+<br/>
 <img src="https://github.com/chandnii7/SocialNetworkAnalysis/blob/main/graph.jpg" height="600" width="600"/>
 <br/>
    
